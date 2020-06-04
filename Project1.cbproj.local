@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.109,D:\Projects\kursach\maze\Unit1.h=D:\Projects\kursach\maze\Cell.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.122,D:\Projects\kursach\maze\Cell.cpp=D:\Projects\kursach\maze\CellList.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.122,D:\Projects\kursach\maze\Cell.h=D:\Projects\kursach\maze\CellList.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.843,=D:\Projects\Trash\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.820,D:\Projects\Trash\Unit1.cpp=D:\Projects\kursach\maze\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.491,D:\Projects\Trash\Project1.cbproj=D:\Projects\kursach\maze\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.742,D:\Projects\kursach\maze\Unit1.dfm=D:\Projects\kursach\maze\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.742,D:\Projects\kursach\maze\Unit1.h=D:\Projects\kursach\maze\Main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.611,D:\Projects\kursach\maze\Unit1.h=D:\Projects\kursach\maze\Maze.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.316,D:\Projects\kursach\maze\Unit1.h=D:\Projects\kursach\maze\Player.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.820,D:\Projects\Trash\Unit1.dfm=D:\Projects\kursach\maze\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.761,=D:\Projects\kursach\maze\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.520,=D:\Projects\kursach\maze\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.496,=D:\Projects\Trash\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.693,D:\Projects\Trash\Project1PCH1.h=D:\Projects\kursach\maze\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.820,D:\Projects\Trash\Unit1.h=D:\Projects\kursach\maze\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.316,D:\Projects\kursach\maze\Unit1.cpp=D:\Projects\kursach\maze\Player.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.742,D:\Projects\kursach\maze\Unit1.cpp=D:\Projects\kursach\maze\Main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.611,D:\Projects\kursach\maze\Unit1.cpp=D:\Projects\kursach\maze\Maze.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.109,D:\Projects\kursach\maze\Unit1.cpp=D:\Projects\kursach\maze\Cell.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.648,=D:\Projects\kursach\maze\Unit1.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Project1.cpp"/>
+    <File Path="Project1PCH1.h"/>
+    <File Path="Main.cpp"/>
+    <File Path="Main.cpp"/>
+    <File Path="Main.dfm"/>
+    <File Path="Main.h"/>
+    <File Path="Maze.cpp"/>
+    <File Path="Maze.cpp"/>
+    <File Path="Maze.h"/>
+    <File Path="CellList.cpp"/>
+    <File Path="CellList.cpp"/>
+    <File Path="CellList.h"/>
+    <File Path="Player.cpp"/>
+    <File Path="Player.cpp"/>
+    <File Path="Player.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
